@@ -8,7 +8,7 @@
 
     <appender name="FILE" class="ch.qos.logback.core.FileAppender">
         <file>log/LogFileGenerator.log</file>
-        <append>true</append>
+        <append>false</append>
 
 
         <encoder>
